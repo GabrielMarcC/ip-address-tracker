@@ -6,7 +6,7 @@ Conceitos desenvolvidos neste projeto:
 
 - Responsive CSS;
 - React JS;
-- API: (obs: A API utilizada  possui um limite de 1000 requests.)<a href="https://app.ipgeolocation.io/">IP Geolocation </a>;
+- API: <a href="https://app.ipgeolocation.io/">IP Geolocation </a>; (obs: A API utilizada  possui um limite de 1000 requests)
 - Node;
 - CSS;
 
