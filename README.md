@@ -6,7 +6,7 @@ Conceitos desenvolvidos neste projeto:
 
 - Responsive CSS;
 - React JS;
-- API: <a href="https://app.ipgeolocation.io/">IP Geolocation </a>;
+- API: (obs: A API utilizada  possui um limite de 1000 requests.)<a href="https://app.ipgeolocation.io/">IP Geolocation </a>;
 - Node;
 - CSS;
 
@@ -29,7 +29,7 @@ Experiência do Usuário:
 
 ## :dart: Aprendizado:
 
-- Projeto bem desafiador, inicialmente com o layout minimalista, porém com um conteúdo interessante e didático, principalmente a parte de manipulação da API de Geolocalização, criação de um mini form de pesquisa e validação com regex.
+- Projeto bem desafiador, inicialmente com o layout minimalista, porém com um conteúdo interessante e didático, principalmente a parte de manipulação da API de Geolocalização, criação de um mini formulário de pesquisa ip e validação com regex. 
 
 ## :rocket: Rodando o projeto
 
