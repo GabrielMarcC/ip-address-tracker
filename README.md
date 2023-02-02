@@ -13,7 +13,7 @@ Conceitos desenvolvidos neste projeto:
 Experiência do Usuário:
 
 - Vizualizar o layout ideal para cada página, dependendo do tamanho da tela do dispositivo
-- Atenção os estados de foco para todos os elementos interativos na página
+- Atenção aos estados de foco para todos os elementos interativos na página
 - Conseguir ver seu próprio endereço IP ao carregar a página
 - Pesquisar endereços IP ou domínios e encontrar as principais informações e localizações
 
@@ -29,7 +29,7 @@ Experiência do Usuário:
 
 ## :dart: Aprendizado:
 
-- Projeto bem desafiador, inicialmente com o layout minimalista, porém com um conteúdo interessante e didático, principalmente a parte de manipulação da API de Geolocalização, criação de um mini formulário de pesquisa ip e validação com regex. 
+- Projeto bem desafiador, inicialmente com o layout minimalista, porém com um conteúdo interessante e didático, principalmente a parte de manipulação da API de Geolocalização e implementação do Leaftlet para gerar mapas, criação de um formulário de pesquisa ip e validação com regex. 
 
 ## :rocket: Rodando o projeto
 
