@@ -61,7 +61,7 @@ export const InfoContainerStyle = styled.div`
     max-width: 80%;
     min-width: 40%;
     min-height: 30%;
-    top: 140px;
+    top: 16%;
   }
 
   @media (max-width: 460px) {
