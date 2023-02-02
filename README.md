@@ -7,8 +7,9 @@ Conceitos desenvolvidos neste projeto:
 - Responsive CSS
 - React JS
 - API: <a href="https://app.ipgeolocation.io/">IP Geolocation </a>; (obs: A API utilizada  possui um limite de 1000 requests)
-- Node
-- CSS
+- Manipulação de mapa
+- Formulário de busca
+- Autenticação de dados
 
 Experiência do Usuário:
 
@@ -39,6 +40,11 @@ Para rodar o repositório é necessário clonar o mesmo, executar os seguintes c
 npm install
 npm run preview
 ```
+
+## Link do Deploy:
+
+### https://ip-address-tracker-nu6yir40k-gabrielmarcc.vercel.app
+
 
 ## :handshake: Autor
 
